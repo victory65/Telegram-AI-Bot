@@ -5,8 +5,8 @@ import threading
 from itertools import cycle
 
 # Set up the Telegram bot token and OpenAI API key
-telegram_token = '6007137718:AAFd5FB-JZs0S1p2eL30F5O1JwLvxY_Znrw'
-openai_api_key = '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'
+telegram_token = 'Put your Telegram Token'
+openai_api_key = 'Put your Openai api key'
 
 # Initialize the Telegram bot
 bot = telebot.TeleBot(telegram_token)
